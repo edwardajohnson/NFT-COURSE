@@ -61,7 +61,7 @@ Here is the course outline, week by week.
 * Attend this workshop for extra traning: https://www.meetup.com/Blockchain-Developers-Canada/events/284025967/
 * We also have a recording of [Week 1 Totorial](https://www.loom.com/share/8543149eeb2b49aa996f8568fd584126)
 
-#### Requirements
+#### Requirements - COMPLETED
 * Demonstrate ability to deploy ERC721 and ERC1155 smart contracts on Ethereum testnet
 * Verify Contract on etherscan
 
